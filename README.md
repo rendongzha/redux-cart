@@ -1,8 +1,8 @@
-## Redux Cart
+# Redux Cart
 
-# a project provided by Academind by Maximilian Schwarzmüller
+## a project provided by Academind by Maximilian Schwarzmüller
 
-# What features this project has
+## What features this project has
 
 - Cart data is stored in firebase Realtime Database
 - Redux toolkit to store ui state and cart state, and dispatch actions to fetch and send data
